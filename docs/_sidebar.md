@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
+- [Projetos](/docs/Projeto/Projeto.md)
 
 - **Arquitetura de Software & Reutilização (Vale Até um Ponto na Média Ponderada - Vide Plano de Ensino)**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
